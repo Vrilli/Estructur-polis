@@ -6,7 +6,7 @@
 
 # AlgoRisas en Estructuropolis: Un Paseo Divertido por el Mundo Encantado de los Algoritmos y las Estructuras de Datos.
 
-En este repositorio, te embarcarás en una travesía fascinante a través del intrincado mundo de las Estructuras de Datos y los Algoritmos. Descubrirás definiciones claras y concisas que te guiarán en este viaje, junto con ejemplos prácticos que ilustrarán cómo estas estructuras y algoritmos forman la columna vertebral de la programación eficiente. ¡Bienvenido a un espacio donde los textos se entrelazan con la exploración y el aprendizaje, desvelando los secretos del universo de las Estructuras de Datos y los Algoritmos!
+En este repositorio, te embarcarás en una travesía fascinante a través del fascinante mundo de las Estructuras de Datos y los Algoritmos. Descubrirás definiciones claras y concisas que te guiarán en este viaje, junto con ejemplos prácticos que ilustrarán cómo estas estructuras y algoritmos forman la columna vertebral de la programación eficiente. ¡Bienvenido a un espacio donde los textos se entrelazan con la exploración y el aprendizaje, desvelando los secretos del universo de las Estructuras de Datos y los Algoritmos!
 
 
 ### HABLES DE ALGORITMO
