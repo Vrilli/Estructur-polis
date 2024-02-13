@@ -75,10 +75,6 @@ Este es una mezcla del Psudocódigo y los gráficos.
 
 
 
-
-
-
-
 Finalmente para tener un Algoritmo se realiza lo siguiente 
 Se parte de un problema que se debe analizar o resolver a través de un algoritmo, el cual se ejecuta mediante cualquiera de las herramientas anteriormente descritas. Después, por medio de un lenguaje de programación, se genera un programa que, una vez ejecutado, es lo que nuestro computador va a entender para posteriormente darnos el resultado que buscamos.
 
@@ -88,6 +84,15 @@ Se parte de un problema que se debe analizar o resolver a través de un algoritm
 
 - Imagen 5.
 ![Captura desde 2024-02-12 21-31-46](https://github.com/Vrilli/Estructur-polis/assets/90112835/3b3b2f22-8da6-4405-ae74-fdcbb7caf0e1)
+
+
+
+### Practica 1
+
+Para que podamos comprender bien cada uno de los conceptos anteriormente descritos les dejo estos ejercicios la idea es realizarlo mediante cada una de las Herramientas de  Diseño de un Algoritmo.En total son 6 Ejercicos que dejare y estare pendiente a los comentarios de ustedes. Espero y lo disfruten tanto como yo 😍🥰
+
+![Captura desde 2024-02-13 15-27-25](https://github.com/Vrilli/Estructur-polis/assets/90112835/7f96dc43-33bd-4a20-9e86-70699603f8ed)
+
 
 
 
