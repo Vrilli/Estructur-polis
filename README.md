@@ -96,3 +96,8 @@ Para que podamos comprender bien cada uno de los conceptos anteriormente descrit
 
 
 
+## Llegó el momento de continuar con nuestro curso. Sé que para que estos conceptos queden claros, necesitamos practicar más. Por eso, he decidido realizar un ejercicio e ir mostrándoles, a través de capturas, el paso a paso de lo que se está realizando.
+
+
+
+
