@@ -103,6 +103,11 @@ Para que podamos comprender bien cada uno de los conceptos anteriormente descrit
 R/=  El ejercicio que verán a continuación es una calculadora básica donde se le está indicando al programa que realice operaciones tales como suma, resta, multiplicación y división. Siendo sincera, siento que este ejercicio tiene un grado de complejidad para alguien que apenas esté iniciando en este mundo, pero siempre estaré dispuesta a despejar sus dudas. A continuación, les mostraré cómo procedí a resolver el ejercicio:
 
 ![Captura desde 2024-03-14 15-50-43](https://github.com/Vrilli/Estructur-polis/assets/90112835/b0fb0b66-df7b-44ee-a77a-b2252dcfc602) 
+![Captura desde 2024-03-14 15-51-00](https://github.com/Vrilli/Estructur-polis/assets/90112835/2248cce7-aad4-4e2d-8c49-6c50d7898a67)
+![Captura desde 2024-03-14 15-52-45](https://github.com/Vrilli/Estructur-polis/assets/90112835/a34ffaa5-94d4-4963-a5d7-e62c34571295)
+![Captura desde 2024-03-14 15-52-54](https://github.com/Vrilli/Estructur-polis/assets/90112835/db31a7c6-0b37-47a6-9fe4-86e25f434c29)
+
+
 
 
 
