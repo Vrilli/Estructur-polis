@@ -98,6 +98,17 @@ Para que podamos comprender bien cada uno de los conceptos anteriormente descrit
 
 ## Llegó el momento de continuar con nuestro curso. Sé que para que estos conceptos queden claros, necesitamos practicar más. Por eso, he decidido realizar un ejercicio e ir mostrándoles, a través de capturas, el paso a paso de lo que se está realizando.
 
+## EJERCICIO 1: Dado dos números enteros obtener su Suma, Resta, multiplicación y Divion.
+
+R/=  El ejercicio que verán a continuación es una calculadora básica donde se le está indicando al programa que realice operaciones tales como suma, resta, multiplicación y división. Siendo sincera, siento que este ejercicio tiene un grado de complejidad para alguien que apenas esté iniciando en este mundo, pero siempre estaré dispuesta a despejar sus dudas. A continuación, les mostraré cómo procedí a resolver el ejercicio:
+
+![Captura desde 2024-03-14 15-50-43](https://github.com/Vrilli/Estructur-polis/assets/90112835/b0fb0b66-df7b-44ee-a77a-b2252dcfc602) 
+
+
+
+
+
+
 
 
 
