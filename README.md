@@ -112,8 +112,7 @@ Lo anterior es en código, Ahora veremos lo que arroja en el navegar.
 
 ![Captura desde 2024-03-14 15-53-27](https://github.com/Vrilli/Estructur-polis/assets/90112835/393ceeb9-9787-4431-ab6e-5ed8a4f5a890)
 ![Captura desde 2024-03-14 15-53-41](https://github.com/Vrilli/Estructur-polis/assets/90112835/d11bdf5f-eb49-4f9c-8c41-9b83c08d37b6)
-
-
+En este enlace podran Probar como funciona la Calculadora https://ejercicios-estructuropolis.vercel.app/ 
 
 
 
