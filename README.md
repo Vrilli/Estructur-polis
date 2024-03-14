@@ -106,6 +106,15 @@ R/=  El ejercicio que verán a continuación es una calculadora básica donde se
 ![Captura desde 2024-03-14 15-51-00](https://github.com/Vrilli/Estructur-polis/assets/90112835/2248cce7-aad4-4e2d-8c49-6c50d7898a67)
 ![Captura desde 2024-03-14 15-52-45](https://github.com/Vrilli/Estructur-polis/assets/90112835/a34ffaa5-94d4-4963-a5d7-e62c34571295)
 ![Captura desde 2024-03-14 15-52-54](https://github.com/Vrilli/Estructur-polis/assets/90112835/db31a7c6-0b37-47a6-9fe4-86e25f434c29)
+![Captura desde 2024-03-14 15-53-02](https://github.com/Vrilli/Estructur-polis/assets/90112835/ba7c7cc7-d5e7-455d-9a92-599d8c21e8be)
+
+Lo anterior es en código, Ahora veremos lo que arroja en el navegar.
+
+![Captura desde 2024-03-14 15-53-27](https://github.com/Vrilli/Estructur-polis/assets/90112835/393ceeb9-9787-4431-ab6e-5ed8a4f5a890)
+![Captura desde 2024-03-14 15-53-41](https://github.com/Vrilli/Estructur-polis/assets/90112835/d11bdf5f-eb49-4f9c-8c41-9b83c08d37b6)
+
+
+
 
 
 
