@@ -118,6 +118,15 @@ Lo anterior es en código, Ahora veremos lo que arroja en el navegar.
 R/= En este ejercicio podremos ver cómo se indica al programa que calcule el promedio de los números ingresados por el usuario en el campo de entrada.
 
 ![Captura desde 2024-03-15 12-37-56](https://github.com/Vrilli/Estructur-polis/assets/90112835/54cf4430-e3fe-409b-877d-d5f42e20b23a)
+![Captura desde 2024-03-15 12-38-16](https://github.com/Vrilli/Estructur-polis/assets/90112835/140b31be-7d11-408a-8bf7-af01244c6559)
+![Captura desde 2024-03-15 12-38-38](https://github.com/Vrilli/Estructur-polis/assets/90112835/6d3885fd-ef37-4c71-94f2-4d2a98e4fcc9)
+
+Lo anterior es en código, Ahora veremos lo que arroja en el navegar.
+
+
+
+
+
 
 
 
