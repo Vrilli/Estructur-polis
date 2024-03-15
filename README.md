@@ -122,9 +122,8 @@ R/= En este ejercicio podremos ver cómo se indica al programa que calcule el pr
 ![Captura desde 2024-03-15 12-38-38](https://github.com/Vrilli/Estructur-polis/assets/90112835/6d3885fd-ef37-4c71-94f2-4d2a98e4fcc9)
 
 Lo anterior es en código, Ahora veremos lo que arroja en el navegar.
-
-
-
+![Captura desde 2024-03-15 12-45-36](https://github.com/Vrilli/Estructur-polis/assets/90112835/00f9d415-b27b-49fe-8100-3c8b43125f70)
+![Captura desde 2024-03-15 12-45-50](https://github.com/Vrilli/Estructur-polis/assets/90112835/73c1d32a-679e-48f5-b1b3-4a2a119d4255)
 
 
 
