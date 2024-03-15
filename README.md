@@ -112,7 +112,22 @@ Lo anterior es en código, Ahora veremos lo que arroja en el navegar.
 
 ![Captura desde 2024-03-14 15-53-27](https://github.com/Vrilli/Estructur-polis/assets/90112835/393ceeb9-9787-4431-ab6e-5ed8a4f5a890)
 ![Captura desde 2024-03-14 15-53-41](https://github.com/Vrilli/Estructur-polis/assets/90112835/d11bdf5f-eb49-4f9c-8c41-9b83c08d37b6)
-En este enlace podran Probar como funciona la Calculadora https://ejercicios-estructuropolis.vercel.app/ 
+
+## EJERCICIO 2: Dado 5 números obtener el promedio de los mismo e informar el resultado.
+
+R/= En este ejercicio podremos ver cómo se indica al programa que calcule el promedio de los números ingresados por el usuario en el campo de entrada.
+
+![Captura desde 2024-03-15 12-37-56](https://github.com/Vrilli/Estructur-polis/assets/90112835/54cf4430-e3fe-409b-877d-d5f42e20b23a)
+
+
+
+
+
+
+
+
+
+En este enlace podran Probar los ejercicios anteriores:  https://ejercicios-estructuropolis.vercel.app/ 
 
 
 
